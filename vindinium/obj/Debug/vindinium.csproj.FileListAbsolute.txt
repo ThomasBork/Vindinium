@@ -1,0 +1,6 @@
+D:\Games\Vindinium\vindinium\bin\Debug\client.exe.config
+D:\Games\Vindinium\vindinium\bin\Debug\client.exe
+D:\Games\Vindinium\vindinium\bin\Debug\client.pdb
+D:\Games\Vindinium\vindinium\obj\Debug\vindinium.csprojResolveAssemblyReference.cache
+D:\Games\Vindinium\vindinium\obj\Debug\client.exe
+D:\Games\Vindinium\vindinium\obj\Debug\client.pdb
